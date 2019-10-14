@@ -1,0 +1,1 @@
+This repo contains samples developed whilst learning HTML5 Canvas Graphing.
